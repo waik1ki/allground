@@ -1,0 +1,690 @@
+.logoFont {
+    font-size: 6rem;
+    font-weight: bold;
+}
+.logoSubFont {
+    font-size: 1.8rem;
+}
+.drawerMenuFont {
+    font-size: 2rem;
+}
+.categoryTitleFont {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.categorySubTitleFont {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.ourserviceImageTitleFont {
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+.newsLogoFont {
+  font-size: 3rem;
+}
+.newsRegFont {
+  font-size: .9rem;
+}
+.newsTitleFont {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.newsContentsFont {
+  font-size: .9rem;
+}
+.contactTitleFont {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.contactContentsFont {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+.categoryContentsFont {
+  font-size: 1.4rem;
+  font-weight: 300;
+}  
+.aboutValueFont {
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+.aboutValueSubFont {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+.aboutBigFont {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.aboutCategoryFont {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.aboutCategorySubFont {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.aboutHistoryFont {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.aboutHistoryYearFont {
+  font-size: 2rem;
+  font-weight: 300;  
+}
+.aboutHistoryDateFont {
+  font-size: .95rem;
+  font-weight: 300;
+}
+.serviceCategoryFont {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.serviceCategorySubFont {
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+@media (max-width:1270px){
+  .logoFont {
+    font-size: 6rem;
+    font-weight: bold;
+  }
+  .logoSubFont {
+    font-size: 1.8rem;
+  }
+  
+  .categoryTitleFont {
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+  .categorySubTitleFont {
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+  .categoryContentsFont {
+    font-size: .95rem;
+  }  
+  .ourserviceImageTitleFont {
+    font-size: 1.9rem;
+    font-weight: bold;
+  }
+  .newsLogoFont {
+    font-size: 3rem;
+  }
+  .newsRegFont {
+    font-size: .9rem;
+  }
+  .newsTitleFont {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .newsContentsFont {
+    font-size: .9rem;
+  }
+  .contactTitleFont {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .contactContentsFont {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+  .aboutValueFont {
+    font-size: 1.7rem;
+    font-weight: bold;
+  }
+  .aboutValueSubFont {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  .aboutBigFont {
+    font-size: 2.8rem;
+    font-weight: bold;
+  }
+  .aboutCategoryFont {
+    font-size: 2.7rem;
+    font-weight: bold;
+  }
+  .aboutCategorySubFont {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .aboutHistoryFont {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .aboutHistoryYearFont {
+    font-size: 2rem;
+    font-weight: 300;  
+  }
+  .aboutHistoryDateFont {
+    font-size: .95rem;
+    font-weight: 300;
+  }
+  .serviceCategoryFont {
+    font-size: 2.2rem;
+    font-weight: bold;
+  }
+  .serviceCategorySubFont {
+    font-size: 1.1rem;
+    font-weight: 300;
+  }   
+}
+@media (max-width:1000px){
+  .logoFont {
+    font-size: 6rem;
+    font-weight: bold;
+  }
+  .logoSubFont {
+    font-size: 1.8rem;
+  }
+  
+  .categoryTitleFont {
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+  .categorySubTitleFont {
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+  .categoryContentsFont {
+    font-size: .9rem;
+  }
+  .ourserviceImageTitleFont {
+    font-size: 1.9rem;
+    font-weight: bold;
+  }
+  .newsLogoFont {
+    font-size: 3rem;
+  }
+  .newsRegFont {
+    font-size: .9rem;
+  }
+  .newsTitleFont {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .newsContentsFont {
+    font-size: .9rem;
+  }
+  .contactTitleFont {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .contactContentsFont {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+  .aboutValueFont {
+    font-size: 1.7rem;
+    font-weight: bold;
+  }
+  .aboutValueSubFont {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  .aboutBigFont {
+    font-size: 2.3rem;
+    font-weight: bold;
+  }
+  .aboutCategoryFont {
+    font-size: 2.6rem;
+    font-weight: bold;
+  }
+  .aboutCategorySubFont {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .aboutHistoryFont {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .aboutHistoryYearFont {
+    font-size: 2rem;
+    font-weight: 300;  
+  }
+  .aboutHistoryDateFont {
+    font-size: .95rem;
+    font-weight: 300;
+  }
+  .serviceCategoryFont {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .serviceCategorySubFont {
+    font-size: 1.1rem;
+    font-weight: 300;
+  }   
+}
+@media (max-width:830px){
+  .logoFont {
+    font-size: 4.5rem;
+    font-weight: bold;
+  }
+  .logoSubFont {
+    font-size: 1.4rem;
+  }
+  
+  .categoryTitleFont {
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+  .categorySubTitleFont {
+    font-size: 2.6rem;
+    font-weight: bold;
+  }
+  .categoryContentsFont {
+    font-size: .95rem;
+  }
+  .ourserviceImageTitleFont {
+    font-size: 1.9rem;
+    font-weight: bold;
+  }
+  .newsLogoFont {
+    font-size: 3rem;
+  }
+  .newsRegFont {
+    font-size: .9rem;
+  }
+  .newsTitleFont {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .newsContentsFont {
+    font-size: .9rem;
+  }
+  .contactTitleFont {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .contactContentsFont {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+  .aboutValueFont {
+    font-size: 1.7rem;
+    font-weight: bold;
+  }
+  .aboutValueSubFont {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  .aboutBigFont {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .aboutCategoryFont {
+    font-size: 2.6rem;
+    font-weight: bold;
+  }
+  .aboutCategorySubFont {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .aboutHistoryFont {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .aboutHistoryYearFont {
+    font-size: 2rem;
+    font-weight: 300;  
+  }
+  .aboutHistoryDateFont {
+    font-size: .95rem;
+    font-weight: 300;
+  }
+  .serviceCategoryFont {
+    font-size: 2.2rem;
+    font-weight: bold;
+  }
+  .serviceCategorySubFont {
+    font-size: 1.1rem;
+    font-weight: 300;
+  }  
+}
+@media (max-width:520px){
+  .logoFont {
+    font-size: 3.2rem;
+    font-weight: bold;
+  }
+  .logoSubFont {
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+  .categoryTitleFont {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  .categorySubTitleFont {
+    font-size: 2.2rem;
+    font-weight: bold;
+  }
+  .categoryContentsFont {
+    font-size: .8rem;
+  }
+  .ourserviceImageTitleFont {
+    font-size: 1.9rem;
+    font-weight: bold;
+  }
+  .newsLogoFont {
+    font-size: 3rem;
+  }
+  .newsRegFont {
+    font-size: .9rem;
+  }
+  .newsTitleFont {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .newsContentsFont {
+    font-size: .9rem;
+  }
+  .contactTitleFont {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .contactContentsFont {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+  .aboutValueFont {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .aboutValueSubFont {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  .aboutCategoryFont {
+    font-size: 2.2rem;
+    font-weight: bold;
+  }
+  .aboutBigFont {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .aboutCategorySubFont {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .aboutHistoryFont {
+    font-size: .8rem;
+    font-weight: bold;
+  }
+  .aboutHistoryYearFont {
+    font-size: 1.3rem;
+    font-weight: 300;  
+  }
+  .aboutHistoryDateFont {
+    font-size: .75rem;
+    font-weight: 300;
+  }
+  .serviceCategoryFont {
+    font-size: 2.1rem;
+    font-weight: bold;
+  }
+  .serviceCategorySubFont {
+    font-size: 1rem;
+    font-weight: 300;
+  }
+}
+
+
+/* 디자인의 통일감을 위한 하나로 합친 CSS 파일 */
+.v-application{
+    line-height:1.2;
+}
+.v-application p{
+    margin-bottom:0;
+}
+.v-carousel__controls__item{
+    margin:0 !important;
+}
+.v-dialog{
+    overflow-y: visible;
+    margin:0;
+}
+/* 
+.v-dialog::-webkit-scrollbar {
+    width: 10px !important;
+}
+.v-dialog::-webkit-scrollbar-thumb {
+    background-color: green !important;
+    border-radius: 10px !important;
+    background-clip: padding-box !important;
+    border: 2px solid transparent !important;
+}
+.v-dialog::-webkit-scrollbar-track {
+    background-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: inset 0px 0px 5px white !important;
+}
+
+.v-dialog::-webkit-scrollbar-thumb {
+    background-color: green !important;
+    border-radius: 10px !important;
+    background-clip: padding-box !important;
+    border: 2px solid transparent !important;
+}
+.v-dialog::-webkit-scrollbar-track {
+    background-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: inset 0px 0px 5px white !important;
+} */
+
+textarea::-webkit-scrollbar {
+    width: 10px !important;
+}
+textarea::-webkit-scrollbar-thumb {
+    background-color: black !important;
+    border-radius: 10px !important;
+    background-clip: padding-box !important;
+    border: 2px solid transparent !important;
+}
+textarea::-webkit-scrollbar-track {
+    background-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: inset 0px 0px 5px white !important;
+}
+
+textarea::-webkit-scrollbar-thumb {
+    background-color: black !important;
+    border-radius: 10px !important;
+    background-clip: padding-box !important;
+    border: 2px solid transparent !important;
+}
+textarea::-webkit-scrollbar-track {
+    background-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: inset 0px 0px 5px white !important;
+}
+
+
+.scrollDiv::-webkit-scrollbar {
+    width: 7px !important;
+}
+.scrollDiv::-webkit-scrollbar-thumb {
+    background-color: black !important;
+    border-radius: 10px !important;
+    background-clip: padding-box !important;
+    border: 2px solid transparent !important;
+}
+.scrollDiv::-webkit-scrollbar-track {
+    background-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: inset 0px 0px 5px white !important;
+}
+
+.scrollDiv::-webkit-scrollbar-thumb {
+    background-color: black !important;
+    border-radius: 10px !important;
+    background-clip: padding-box !important;
+    border: 2px solid transparent !important;
+}
+.scrollDiv::-webkit-scrollbar-track {
+    background-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: inset 0px 0px 5px white !important;
+}
+
+.scrollDiv{
+    overflow:auto;
+    background-color:transparent;
+}
+
+.custumCarousel .v-item--active{
+    color:rgba(55,200,55,1) !important;
+}
+@media (max-width:960px){
+    .custumCarousel .v-carousel__controls {
+        opacity:.8;
+    }
+    .custumCarousel .v-carousel__controls > .v-item-group {
+        width:10px;
+    }
+    .custumCarousel .v-btn--icon.v-size--small .v-icon, .v-btn--fab.v-size--small .v-icon {
+        height: 11px !important;
+        width: 11px !important;
+    }
+    .custumCarousel .v-btn--icon.v-size--small {
+        height: 10px;
+        width: 10px;
+    }
+    .mdi-soccer::before {
+        font-size: 13px;
+    }
+}
+
+
+.viewContainer{
+    padding-top:70px;
+    /* padding-right:50px;
+    padding-left:50px; */
+    height:100%;
+    width: 100%;
+}
+
+p::selection{
+    background-color:grey;
+}
+br::selection{
+    background-color:transparent;
+}
+
+.shadowText{
+    color:white !important;
+    text-shadow: -1px 0 rgba(0,0,0,.7), 0 1px rgba(0,0,0,.7), 1px 0 rgba(0,0,0,.7), 0 -1px rgba(0,0,0,.7) !important;
+    font-weight: 300 !important;
+}
+
+
+
+.titleText{
+    font-size:5rem;
+    font-family: 'Russo One', sans-serif;
+    color:white;
+}
+.titleSubText{
+    font-size:2rem;
+    font-family: 'Noto Sans KR', sans-serif;
+    color:white;
+}
+
+.subText{
+    color:rgba(255,255,255,.75);
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    font-size:1.4rem;
+}
+
+
+@media (max-width:1270px){
+    .subText{
+        font-size:1.2rem;
+    }
+}
+@media (max-width:1000px){
+    .titleText{
+        font-size:3.8rem;
+    }
+    .titleSubText{
+        font-size:1.5rem;
+    }
+    .subText{
+        font-size:1.1rem;
+    }
+}
+
+@media (max-width:600px){
+    .viewContainer{
+        padding-top:35px;
+        padding-bottom:50px;
+        height:100%;
+        width: 100%;
+        
+    }
+}
+@media (max-width:680px){
+    .titleText{
+        font-size:2.8rem;
+    }
+    .titleSubText{
+        font-size:1.5rem;
+    }
+    .subText{
+        font-size:1.1rem;
+    }
+}
+@media (max-width:520px){
+    
+    .titleText{
+    font-size:2rem;
+    }
+    .titleSubText{
+        font-size:1.1rem;
+    }
+    .subText{
+        font-size:.8rem;
+    }
+}
+
+
+.newsTitleText{
+    color:rgba(255,255,255,1);
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    font-size:1.2rem;
+}
+.newsSubText{
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    font-size:1rem;
+}
+
+@media (max-width:1000px){
+    .newsTitleText{
+        font-size:1.2rem;
+    }
+    .newsSubText{
+        font-size:.8rem;
+    }
+}
+@media (max-width:680px){
+    .newsTitleText{
+        font-size:1rem;
+    }
+    .newsSubText{
+        font-size:.75rem;
+    }
+}
+@media (max-width:520px){
+    
+    .newsTitleText{
+    font-size:1rem;
+    }
+    .newsSubText{
+        font-size:.7rem;
+    }
+}
